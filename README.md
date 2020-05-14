@@ -1,0 +1,2 @@
+# AnarchistCoin
+criptomoneda de prueba
